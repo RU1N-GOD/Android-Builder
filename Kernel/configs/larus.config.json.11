@@ -1,11 +1,11 @@
 [
     {
         "kernelSource": {
-            "name": "Mi CC 9e",
-            "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-            "branch": "laurus-q-oss",
-            "device": "laurus-q-oss",
-            "defconfig": "vendor/wayne_defconfig"
+            "name": "on7xreflte",
+            "repo": "https://github.com/aum47/android_kernel_samsung_g611f",
+            "branch": "main",
+            "device": "on7xreflte",
+            "defconfig": "arch/arm64/configs/on7xreflte_01_defconfig"
         },
         "toolchains": [
             {
