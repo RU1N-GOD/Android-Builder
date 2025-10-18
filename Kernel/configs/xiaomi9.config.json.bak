@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi9KernelPoweredBySeparate",
-      "repo": "https://github.com/Separatee/AllinOneKernel",
+      "name": "on7xreflteKernelPoweredByRYZO",
+      "repo": "https://github.com/RU1N-GOD/android_kernel_samsung_g611f",
       "branch": "main",
-      "device": "cepheus",
-      "defconfig": "cepheus_defconfig"
+      "device": "on7xreflte",
+      "defconfig": "on7xreflte_01_defconfig"
     },
     "toolchains": [
       {
@@ -13,11 +13,6 @@
         "repo": "https://github.com/kdrag0n/proton-clang",
         "branch": "master",
         "binaryEnv": ["./bin"]
-      },
-      {
-        "name": "",
-        "url": "",
-        "binaryEnv": []
       }
     ],
     "enableCcache": true,
